@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.vscode
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Mm][Dd]64/
+_ReSharper*/
+.ReSharper*/
+
+# Others
+.DS_Store
+Thumbs.db
